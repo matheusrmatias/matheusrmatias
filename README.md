@@ -38,4 +38,4 @@
 <a href='mailto:contato@matheusrmatias.dev.br' target='_blank'><img src="images/gmail-original.svg" height="40" width="50" alt='E-mail'/></a>
 <a href='https://www.linkedin.com/in/matheusrmatias/' target='_blank'><img src="images/linkedin-original.svg" height="40" width="50" alt='Linkedin'/></a>
 <a href='https://www.instagram.com/matheusrmatias' target='_blank'><img src="images/instagram-original.svg" height="40" width="50" alt='Instagram'/></a>
-<a href='https://www.flickr.com/photos/matheusrmatias/' target='_blank'><img src="images/flickr-original.svg" height="40" width="50" alt='Flickr'/></a>
+<a href='https://www.flickr.com/photos/matheusrmatias/' target='_blank'><img src="images/flickr-original.svg" height="40" width="40" alt='Flickr'/></a>
