@@ -1,4 +1,17 @@
-## Olá, sou Matheus Rato Matias, atualmente estudante de análise e desenvolvimento de sistemas.
+## Olá, sou o Matheus.
+
+<p>Atualmente estudo análise e desenvolvimento de sistemas e busco por emprego na área.</p>
+<p>Tenho conhecimentos em:</p>
+<ul>
+<li>Flutter</li>
+<li>React</li>
+<li>Flask</li>
+<li>SQL</li>
+<li>Firebase</li>
+</ul>
+<p>Além disso gosto da área de hardware e mobile.</p>
+
+##
 <div align="center">
   <a href="https://github.com/GuiCardilho">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -20,3 +33,9 @@
 </div>
 
 ##
+
+## Contato
+<a href='mailto:contato@matheusrmatias.dev.br' target='_blank'><img src="images/gmail-original.svg" height="40" width="50" alt='E-mail'/></a>
+<a href='https://www.linkedin.com/in/matheusrmatias/' target='_blank'><img src="images/linkedin-original.svg" height="40" width="50" alt='Linkedin'/></a>
+<a href='https://www.instagram.com/matheusrmatias' target='_blank'><img src="images/instagram-original.svg" height="40" width="50" alt='Instagram'/></a>
+<a href='https://www.flickr.com/photos/matheusrmatias/' target='_blank'><img src="images/flickr-original.svg" height="40" width="50" alt='Flickr'/></a>
