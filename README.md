@@ -1,42 +1,33 @@
-## Olá, sou o Matheus.
+```diff
+@@ Matheus 🐀 Matias @@
 
-<p>Atualmente estudo análise e desenvolvimento de sistemas e busco por emprego na área.</p>
-<p>Tenho conhecimentos em:</p>
-<ul>
-<li>Flutter</li>
-<li>React</li>
-<li>Flask</li>
-<li>SQL</li>
-<li>Firebase</li>
-</ul>
-<p>Além disso gosto da área de hardware e mobile.</p>
+> amo fotografia 📷
+> apaixonado por tecnologia 🧑🏻‍💻
+> curto jogos indies 🕹️
 
-##
-<div align="center">
-  <a href="https://github.com/matheusrmatias">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&layout=compact&langs_count=10&theme=great-gatsby"/>
-  </a>
- </div>
- 
- ##  
-  
-<div style="display: inline_block"><br>
-    <a href='https://www.python.org/' target='_blank'><img src="images/python-original.svg" height="40" width="50" alt='Python'/></a>
-    <a href='https://www.ecma-international.org/' target='_blank'><img src="images/javascript-original.svg" height="40" width="50" alt='JavaScript'/></a>
-    <a href='https://www.java.com/pt-BR/' target='_blank'><img src="images/java-original.svg" height="40" width="50" alt='Java'/></a>
-    <a href='https://www.php.net/' target='_blank'><img src="images/php-original.svg" height="40" width="50" alt='PHP'/></a>
-    <a href='https://dart.dev/' target='_blank'><img src="images/dart-original.svg" height="40" width="50" alt='Dart'/></a>
-    <a href='https://flutter.dev/' target='_blank'><img src="images/flutter-original.svg" height="40" width="50" alt='Flutter'/></a>
-    <a href='https://react.dev/' target='_blank'><img src="images/react-original.svg" height="40" width="50" alt='React'/></a>
-          
-          
-</div>
+! ‍desenvolvedor mobile flutter 📱
+! não canso de estudar 📘
+! gosto de desafios 🧩
 
-##
+- Futuro especialista em WEB e Mobile 🧑🏻‍🎓
+- Tecnólogo em Análise e Desenvolvimento de Sistemas 💻
+- Técnico em Admistração 📈
+```
 
-## Contato
-<a href='mailto:contato@matheusrmatias.dev.br' target='_blank'><img src="images/gmail-original.svg" height="40" width="50" alt='E-mail'/></a>
-<a href='https://www.linkedin.com/in/matheusrmatias/' target='_blank'><img src="images/linkedin-original.svg" height="40" width="50" alt='Linkedin'/></a>
-<a href='https://www.instagram.com/matheusrmatias' target='_blank'><img src="images/instagram-original.svg" height="40" width="50" alt='Instagram'/></a>
-<a href='https://www.flickr.com/photos/matheusrmatias/' target='_blank'><img src="images/flickr-original.svg" height="40" width="40" alt='Flickr'/></a>
+#### 🖥️ Minha Especialidade
+![Flutter Shield](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Shield](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hackintosh Shield](https://img.shields.io/badge/Hackintosh-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Hackintosh Shield](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black)
+![Sqlite Shield](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🧑🏻‍💻 Me Encontre
+
+[![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusrmatias/)
+
+[![Linkedin Shield](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrmatias/)
+
+
+[![Linkedin Shield](https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=FF0084)](https://www.flickr.com/photos/matheusrmatias/)
+
+[![Gmail Shield](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@matheusrmatias.dev.br)
