@@ -18,8 +18,12 @@
 - Técnico em Admistração 📈
 ```
 ---
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark">
+<a>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark">
+</a>
+<a>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark">
+</a>
 
 ---
 ![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark)
