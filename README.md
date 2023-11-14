@@ -18,17 +18,17 @@
 - Técnico em Admistração 📈
 ```
 ---
-<a>
+
+<p align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark">
-</a>
-<a>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark">
-</a>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact">
+</p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark">
+</p>
 
 ---
-![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark)
-![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark)
-![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=PolaroidsPrint&theme=dark) 
 
 
 #### 🖥️ Tenho Experiência Com
