@@ -22,11 +22,11 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact">
 
 <a href="https://github.com/matheusrmatias/sigalogin">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark"/>
+  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark"/>
 </a>
 
 <a href="https://github.com/matheusrmatias/Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark"/>
+  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark"/>
 </a>
 
 ---
