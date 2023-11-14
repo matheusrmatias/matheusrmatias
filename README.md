@@ -18,6 +18,12 @@
 - Técnico em Admistração 📈
 ```
 
+### Principais Repositórios
+
+![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark)
+![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark)
+![Siga Login Stats](https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=PolaroidsPrint&theme=dark)
+
 #### 🖥️ Tenho Experiência Com
 ![Flutter Shield](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Shield](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
