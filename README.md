@@ -40,7 +40,7 @@
 
 #### 🧑🏻‍💻 Me Encontre
 
-[![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusrmatias/){:target="_blank"}
-[![Linkedin Shield](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrmatias/){:target="_blank"}
-[![Linkedin Shield](https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=FF0084)](https://www.flickr.com/photos/matheusrmatias/){:target="_blank"}
-[![Gmail Shield](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@matheusrmatias.dev.br){:target="_blank"}
+[![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusrmatias/){target="_blank"}
+[![Linkedin Shield](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrmatias/){target="_blank"}
+[![Linkedin Shield](https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=FF0084)](https://www.flickr.com/photos/matheusrmatias/){target="_blank"}
+[![Gmail Shield](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@matheusrmatias.dev.br){target="_blank"}
