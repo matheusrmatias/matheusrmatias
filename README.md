@@ -1,58 +1,40 @@
-## Olá, eu sou o Matheus👋🏻
+# Olá, eu sou o Matheus Matias👋🏻
 
-![banner](https://github.com/matheusrmatias/matheusrmatias/assets/115509118/55b5bb43-1b0a-4a98-9784-bedeef128835)
+## Sobre Mim 🧑🏻‍💻
 
-```diff
-@@ Matheus 🐀 Matias @@
+<img src="https://github.com/matheusrmatias/matheusrmatias/assets/115509118/cecebba1-8969-48ed-beee-e549cefc9ec4" width=230 style="border-radius: 50%;" align='right'>
 
-> amo fotografia 📷
-> apaixonado por tecnologia 🧑🏻‍💻
-> curto jogos indies 🕹️
-
-! ‍desenvolvedor mobile flutter 📱
-! não canso de estudar 📘
-! gosto de desafios 🧩
-
-- Futuro especialista em WEB e Mobile 🧑🏻‍🎓
-- Tecnólogo em Análise e Desenvolvimento de Sistemas 💻
-- Técnico em Admistração 📈
-```
----
-
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact">
-
-|<a href="https://github.com/matheusrmatias/sigalogin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=sigalogin&theme=dark"/></a>|<a href="https://github.com/matheusrmatias/Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmatias&repo=Hackintosh-Samsung-Book-X40-NP550XCJ-XF1BR&theme=dark"/></a>|
-|:---:|:---:|
+- 📱 Desenvolvedor Mobile;
+- 🎓 Futuro Especialista em Desenvolvimento WEB pelo [🏫 IFSP Campus Itapetininga](https://itp.ifsp.edu.br/);
+- 🎓Tecnólogo em Análise e Desenvolvimento de Sistemas pela [🏫 Fatec Itapetininga](https://fatecitapetininga.edu.br/);
+- 🎓 Técnico em Administração pela [🏫 Etec Itapetininga](https://etecdarcypereirademoraes.com.br/);
+- 📷 Tirar umas fotos é hobbie, [algumas aqui.]()
+- 🐀 Meu sobrenome é Rato.
 
 
+[![Meu Site](https://img.shields.io/badge/Meu%20Site-orange)](https://matheusrmatias.dev.br)
+[![Instagram: matheusrmatias](https://img.shields.io/badge/-matheusrmatias-F21B54?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/matheusrmatias/)](https://www.instagram.com/in/matheusrmatias/)
+[![Linkedin: matheusrmatias](https://img.shields.io/badge/-matheusrmatias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusrmatias/)](https://www.linkedin.com/in/matheusrmatias/)
+[![GitHub Matheus](https://img.shields.io/github/followers/matheusrmatias?label=follow&style=social)](https://github.com/matheusrmatias)
+
+## Minhas Habilidades 🦾
+
+<div style="position:absolute;right:0">
+<img src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark" width=300>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact" width=300>
+</div>
+
+| Mando Bem 💪🏻                                                                                                       | Sei um Poquinho 🤏🏻                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| ![Flutter Shield](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)    | ![React Shield](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![Firebase Shield](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white) | ![Java Shield](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  |
+| ![Python SHield](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)       | ![PHP Shield](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)        |
+| ![SQL Shield](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white)                | ![C# Shield](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)    |
+
+Gosto e sei um pouco sobre fazer hackintosh também .
 
 
----
 
+## Alguns Projetinhos 🔧
 
-#### 🖥️ Tenho Experiência Com
-![Flutter Shield](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Shield](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Hackintosh Shield](https://img.shields.io/badge/Hackintosh-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Hackintosh Shield](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black)
-![Sqlite Shield](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### 🖥️ Tenho pouca experiência com
-![React Shield](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C# Shield](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP Shield](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java Shield](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C Shield](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python SHield](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML Shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Shield](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL Shield](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL Shield](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🧑🏻‍💻 Me Encontre
-
-[![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusrmatias/)
-[![Linkedin Shield](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusrmatias/)
-[![Linkedin Shield](https://img.shields.io/badge/Flickr-0063DC?style=for-the-badge&logo=flickr&logoColor=FF0084)](https://www.flickr.com/photos/matheusrmatias/)
-[![Gmail Shield](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@matheusrmatias.dev.br)
