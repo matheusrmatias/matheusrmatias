@@ -8,7 +8,7 @@
 - 🎓 Futuro Especialista em Desenvolvimento WEB pelo [🏫 IFSP](https://itp.ifsp.edu.br/);
 - 🎓Tecnólogo em Análise e Desenvolvimento de Sistemas pela [🏫 Fatec](https://fatecitapetininga.edu.br/);
 - 🎓 Técnico em Administração pela [🏫 Etec](https://etecdarcypereirademoraes.com.br/);
-- 📷 Tirar umas fotos é hobbie, [algumas aqui.]()
+- 📷 Tirar umas fotos é meu hobbie, [algumas aqui.]()
 - 🐀 Meu sobrenome é Rato.
 
 
@@ -19,6 +19,9 @@
 
 ## Minhas Habilidades 🦾
 
+
+<div align="center">
+  
 | Mando Bem 💪🏻                                                                                                       | Sei um Poquinho 🤏🏻                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | ![Flutter Shield](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)    | ![React Shield](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
@@ -26,12 +29,16 @@
 | ![Python SHield](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)       | ![PHP Shield](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)        |
 | ![SQL Shield](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white)                | ![C# Shield](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)    |
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark" height=150>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact" height=150>
+</div>
 
 Gosto e sei um pouco sobre fazer hackintosh também .
 
+## Estatisticas 📊
 
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact" height=150>  
+</p>
 
 ## Alguns Projetinhos 🔧
 
