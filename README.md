@@ -8,12 +8,12 @@
 - 🎓 Futuro Especialista em Desenvolvimento WEB pelo [🏫 IFSP](https://itp.ifsp.edu.br/);
 - 🎓Tecnólogo em Análise e Desenvolvimento de Sistemas pela [🏫 Fatec](https://fatecitapetininga.edu.br/);
 - 🎓 Técnico em Administração pela [🏫 Etec](https://etecdarcypereirademoraes.com.br/);
-- 📷 Tirar umas fotos é meu hobbie, [algumas aqui.]()
+- 📷 Tirar umas fotos é meu hobbie, [algumas aqui.](https://www.instagram.com/matheusrfotografias/)
 - 🐀 Meu sobrenome é Rato.
 
 
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-orange)](https://matheusrmatias.dev.br)
-[![Instagram: matheusrmatias](https://img.shields.io/badge/-matheusrmatias-F21B54?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/matheusrmatias/)](https://www.instagram.com/in/matheusrmatias/)
+[![Instagram: matheusrmatias](https://img.shields.io/badge/-matheusrmatias-F21B54?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/matheusrmatias/)](https://www.instagram.com/matheusrmatias/)
 [![Linkedin: matheusrmatias](https://img.shields.io/badge/-matheusrmatias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusrmatias/)](https://www.linkedin.com/in/matheusrmatias/)
 [![GitHub Matheus](https://img.shields.io/github/followers/matheusrmatias?label=follow&style=social)](https://github.com/matheusrmatias)
 
@@ -31,7 +31,8 @@
 
 </div>
 
-Gosto e sei um pouco sobre fazer hackintosh também .
+Gosto e sei um pouco sobre fazer hackintosh também 💻.
+
 
 ## Estatisticas 📊
 
@@ -39,6 +40,3 @@ Gosto e sei um pouco sobre fazer hackintosh também .
   <img src="https://github-readme-stats.vercel.app/api?username=matheusrmatias&show_icons=true&theme=dark" height=150>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmatias&theme=dark&layout=compact" height=150>  
 </p>
-
-## Alguns Projetinhos 🔧
-
