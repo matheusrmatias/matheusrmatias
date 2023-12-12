@@ -2,7 +2,7 @@
 
 ## Sobre Mim 🧑🏻‍💻
 
-<img src="https://github.com/matheusrmatias/matheusrmatias/assets/115509118/e8d40597-2a26-43b6-befe-388b96d5f000" width=250 align='right'>
+<img src="https://github.com/matheusrmatias/matheusrmatias/assets/115509118/e8d40597-2a26-43b6-befe-388b96d5f000" width=300 align='right'>
 
 - 📱 Desenvolvedor Mobile;
 - 🎓 Futuro Especialista em Desenvolvimento WEB pelo [🏫 IFSP](https://itp.ifsp.edu.br/);
